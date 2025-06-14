@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/recipeease-39951-18458c2a/recipeease_db"
+}
